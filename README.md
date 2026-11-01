@@ -6,7 +6,7 @@
 
 双击运行即可，拉到数据后会打成压缩包，如果包内没有[booster_config].json说明小米没推
 
-包内正常有这俩文件：  
+正常有这俩文件：  
 ```text
 [booster_config].json
 [common_config].json
