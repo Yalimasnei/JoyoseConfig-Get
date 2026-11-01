@@ -1,4 +1,4 @@
-﻿# get_joyose_teg_config
+﻿# JoyoseConfig-Get
 
 从服务器拉joyose的teg_config
 
