@@ -10,5 +10,13 @@
 [booster_config].json
 [common_config].json
 ```
+## 默认配置
+$Device = "songyuan"  
+$MiuiRegion = "CN"  
+$Locale = "zh_CN"  
+$Incremental = "4.0.5.0.AUTO"  
+$MiuiVersionName = "V816"  
+$BuildType = "stable"  
+$AndroidRelease = "16"  
 
-需要拉取其他设备的配置时需手动修改脚本配置
+拉取其他设备配置一般只需要修改设备代号
