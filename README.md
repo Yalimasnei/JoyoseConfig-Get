@@ -4,9 +4,7 @@
 
 ## 使用说明
 
-双击运行即可，拉到数据后会打成压缩包，如果包内没有[booster_config].json说明小米没推
-
-正常有这俩文件：  
+双击运行即可，拉到数据后会打成压缩包，如果包内没有[booster_config].json说明小米没推，正常有这俩文件：  
 ```text
 [booster_config].json
 [common_config].json
@@ -24,4 +22,5 @@ $AndroidRelease = "16"
 
 ## 注
 设备ROM的一般自带配置文件，位置在: /odm/etc/default_cloud.json  
-default_cloud.json需自行解密或用scene等工具查看
+default_cloud.json需自行解密或用scene等工具查看  
+default_cloud与teg_config谁的日期高谁就优先  
